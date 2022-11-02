@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{0F7A6E7A-50D8-4D7B-B32E-4F824D6CC1D9}|Default">
+  <MonoDevelop.Ide.ItemProperties.IdentityProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IdentityProject/Program.cs">
+    <Files>
+      <File FileName="IdentityProject/Program.cs" Line="7" Column="98" />
+      <File FileName="IdentityProject/Areas/Identity/Data/IdentityProjectUser.cs" Line="10" Column="14" />
+      <File FileName="IdentityProject/Areas/Identity/Data/IdentityProjectContext.cs" Line="1" Column="1" />
+      <File FileName="IdentityProject/ScaffoldingReadMe.txt" Line="1" Column="1" />
+      <File FileName="IdentityProject/appsettings.json" Line="10" Column="152" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IdentityProject" expanded="True">
+            <Node name="IdentityProject" expanded="True" selected="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Data" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
